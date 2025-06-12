@@ -127,5 +127,6 @@ All core functionalities have been tested using Postman and curl, and the test c
 ## 🙋‍♀️ Author
 
 Kavana 
-✅ Thanks for visiting this project! Feel free to connect or leave feedback.
+
+Thanks for visiting this project! Feel free to connect or leave feedback.
 
