@@ -126,7 +126,10 @@ All core functionalities have been tested using Postman and curl, and the test c
 
 ## 🙋‍♀️ Author
 
-Kavana 
+Kavana
+
+(https://kavanasrao.github.io/)
+
 
 Thanks for visiting this project! Feel free to connect or leave feedback.
 
